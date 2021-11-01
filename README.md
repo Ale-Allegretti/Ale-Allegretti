@@ -10,4 +10,10 @@ My long-time goal will be the acoustic engineering master in Milan which needs c
 
 Enjoy my learn-topics sharing and send me your feedback!
 
-<a href="https://app.daily.dev/Ale_Allegretti"><img src="https://api.daily.dev/devcards/ad195465f7a74cb3bf61ab0aeb110b51.png?r=vsg" width="200" alt="Alessandro Allegretti's Dev Card"/></a>
+Some of personal links: 
+
+- [Linkedin]:(https://www.linkedin.com/in/alessandro-allegretti-482806139/)
+- [Hashnode]:(https://hashnode.com/@Ale-Allegretti)
+- [Computer Engineering study hall]:(https://corsi.unibo.it/1cycle/ComputerEngineering/course-structure-diagram/piano/2021/9254/000/000/2020)
+
+<a href="https://app.daily.dev/Ale_Allegretti"><img src="https://api.daily.dev/devcards/ad195465f7a74cb3bf61ab0aeb110b51.png?r=vsg" width="300" alt="Alessandro Allegretti's Dev Card"/></a>
