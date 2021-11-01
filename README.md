@@ -20,4 +20,5 @@ Some of personal links:
 [id2]: https://hashnode.com/@Ale-Allegretti
 [id3]: https://www.linkedin.com/in/alessandro-allegretti-482806139/
 
+<br><br>
 <a href="https://app.daily.dev/Ale_Allegretti"><img src="https://api.daily.dev/devcards/ad195465f7a74cb3bf61ab0aeb110b51.png?r=vsg" width="300" alt="Alessandro Allegretti's Dev Card"/></a>
