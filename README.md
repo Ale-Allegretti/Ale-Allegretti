@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Ale-Allegretti/Ale-Allegretti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here I am. A 28-yo computer and sound lover. 
 
-Here are some ideas to get you started:
+I've worked as sound technician for 8 years and I've started computer engineering university in September 2020. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My short-time goal is to grow-up as a full-stack developer.
+
+My long-time goal will be the acoustic engineering master in Milan which needs computer engineering degree and experience.
+
+Enjoy my learn-topic sharing and send me your feedback!
+
+<a href="https://app.daily.dev/Ale_Allegretti"><img src="https://api.daily.dev/devcards/ad195465f7a74cb3bf61ab0aeb110b51.png?r=vsg" width="400" alt="Alessandro Allegretti's Dev Card"/></a>
