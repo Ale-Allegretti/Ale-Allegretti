@@ -12,10 +12,12 @@ Enjoy my learn-topics sharing and send me your feedback!
 
 Some of personal links: 
 
+- [alessandroallegretti.it][id0]
 - [Linkedin][id1]
 - [Hashnode][id2]
 - [Computer Engineering study hall][id3]
 
+[id0]: https://alessandroallegretti.it/
 [id1]: https://www.linkedin.com/in/alessandro-allegretti-482806139/
 [id2]: https://hashnode.com/@Ale-Allegretti
 [id3]: https://corsi.unibo.it/1cycle/ComputerEngineering/course-structure-diagram/piano/2021/9254/000/000/2020
